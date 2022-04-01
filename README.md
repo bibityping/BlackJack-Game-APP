@@ -1,7 +1,7 @@
 # BlackJack-Game-App
 ![pocker](https://user-images.githubusercontent.com/91335480/161246862-8bfff9e6-e25c-42c6-bfd7-97b3ae94dacb.gif)
 <p>A BlackJack game app</p>
-Live Demo:
+Live Demo:https://bibityping.github.io/BlackJack-Game-APP/
 <h2>Build With</h2>
 <hr>
 🟤HTML<br>
