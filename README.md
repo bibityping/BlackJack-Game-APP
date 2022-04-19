@@ -3,12 +3,10 @@
 <p>A BlackJack game app</p>
 Live Demo:https://bibityping.github.io/BlackJack-Game-APP/
 <h2>Build With</h2>
-<hr>
 🟤HTML<br>
 🟡CSS<br>
 🟠Javascript<br>
 <h2>Project Purpose</h2>
-<hr>
 <h4>📌JavaScript Practice<br></h4>
 ☑️arrays<br>
 ☑️objects<br>
